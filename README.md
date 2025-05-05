@@ -2,13 +2,13 @@
 
 A TypeScript REST API for managing tasks using Express.
 
-## 💡 Features
+## Features
 
 - Full CRUD support
 - Strong typing with interfaces
 - In-memory task storage
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Install dependencies
 
@@ -22,7 +22,7 @@ npm install
 npm run dev
 ```
 
-## 🔄 Endpoints
+## Endpoints
 
 - `GET /tasks` – list tasks
 - `POST /tasks` – create a task
@@ -31,4 +31,4 @@ npm run dev
 
 ---
 
-Coded clean with speed in mind.
+Created by Jamar Robinson Jr. 
